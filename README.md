@@ -16,5 +16,5 @@ Achieved **85% accuracy** on the test set.
 - NLTK
 - Scikit-learn
 - Matplotlib, Seaborn
-- Jupyter Notebook
+- Google colab
 
