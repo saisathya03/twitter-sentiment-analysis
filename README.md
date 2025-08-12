@@ -1,2 +1,20 @@
-# twitter-sentiment-analysis
-The project that classifies tweets as Positive, Negative, or Neutral using NLTK and Scikit-learn. Includes preprocessing (tokenization, stopword removal), TF-IDF feature extraction, Logistic Regression model, and visualizations with Matplotlib &amp; Seaborn. Achieved 85% accuracy on test data.
+📌 Overview
+This project builds a machine learning model to classify the sentiment of tweets as **Positive, Negative, or Neutral**.  
+It uses **Python**, **NLTK**, and **Scikit-learn** for Natural Language Processing (NLP) and visualization with **Matplotlib** & **Seaborn**.  
+Achieved **85% accuracy** on the test set.
+
+ 🚀 Features
+- Text preprocessing (stopword removal, stemming, tokenization)
+- Feature extraction using TF-IDF
+- Model training using Logistic Regression
+- Data visualization of sentiment distribution
+- Accuracy evaluation and confusion matrix
+  
+ 🛠 Technologies Used
+- Python 3.x
+- Pandas, NumPy
+- NLTK
+- Scikit-learn
+- Matplotlib, Seaborn
+- Jupyter Notebook
+
